@@ -1,4 +1,5 @@
 /**
+* Using for TA:2015
 * Modified from: 
 *    1: [https://msdn.microsoft.com/ja-jp/library/system.windows.forms.systeminformation.mousespeed(v=vs.110).aspx]
 *    2: [http://www.sparrowtail.com/changing-mouse-pointer-speed-c]
